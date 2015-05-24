@@ -129,7 +129,7 @@ end
 
 # Check for valid argument.
 if ARGV.first.nil?
-    abort("usage: ruby bind-version.rb deftcode.ninja")
+    abort("usage: ruby bind-version.rb example.org")
 end
 
 _dns_query(ARGV.first)
