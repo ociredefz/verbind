@@ -15,5 +15,5 @@ Howto
 References
 ----------
 
-RFC-1035: http://tools.ietf.org/html/rfc1035
-DNS Protocol: http://www.networksorcery.com/enp/protocol/dns.htm
+* RFC-1035: http://tools.ietf.org/html/rfc1035
+* DNS Protocol: http://www.networksorcery.com/enp/protocol/dns.htm
