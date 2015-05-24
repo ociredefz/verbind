@@ -77,7 +77,7 @@ def _dns_query(host)
     # records section.
     payload += "\x00\x00"
 
-    # RFC 4.1.2. QUESTION SECTION FORMAT
+    # RFC 4.1.2 - QUESTION SECTION FORMAT
     # -------------------------------------------------
     #                                 1  1  1  1  1  1
     #   0  1  2  3  4  5  6  7  8  9  0  1  2  3  4  5
